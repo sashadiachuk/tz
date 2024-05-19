@@ -1,0 +1,5 @@
+{
+    "server_address": "127.0.0.1",
+    "server_port": 4000,
+    "value_to_send": 100.0
+}
