@@ -6,5 +6,5 @@ gcc -o udp_client udp_client.c -lpthread -ljansson
 
 Then run firstly server:
 ./udp_server
-then clent:
+then client:
 ./udp_client
